@@ -1,0 +1,25 @@
+h3{
+    color: bisque ;
+}
+h5{
+    color: brown;
+}
+body{
+    background: black; 
+}
+p{
+    color:aliceblue;
+}
+h4{
+    color: beige;
+}
+button{
+    color: black;
+    background-color: white;
+}
+*{
+    font-size: 30px;
+}
+h3{
+    background-color:brown;
+}
